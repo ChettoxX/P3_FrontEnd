@@ -1,0 +1,20 @@
+[
+  {
+    "id": "347c01e1-aef9-4bba-422-9cc3caeb42a5",
+    "idUser": "347c01e1-aef9-4bba-a922-9cc3caeb42a5",
+    "message": "Hello, I'm interested in your product",
+    "createdAt": "2021-06-01T12:00:00.000Z"
+  },
+  {
+    "id": "347c01e1-aef9-4bba-a9229cc3caeb42a5",
+    "idUser": "347c01e1-aef9-4bba-a922-9cc3caeb42a5",
+    "message": "Hello, I'm interested in your product",
+    "createdAt": "2021-06-01T12:00:00.000Z"
+  },
+  {
+    "id": "347c01e1-aef9-4bba-a922-9cc3c1b42a5",
+    "idUser": "347c01e1-aef9-4bba-a922-9cc3caeb42a5",
+    "message": "Hello, I'm interested in your product",
+    "createdAt": "2021-06-01T12:00:00.000Z"
+  }
+]
